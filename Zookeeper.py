@@ -1,3 +1,13 @@
+"""
+This project was an introductory project on Jetbrains Academy and is called ZooKeeper. 
+The project taught funadmental python concepts such as if/else, while loops and booleans. 
+Variable creation and PEP-8 style guidelines were also taught. 
+
+The program asks for user input to see which animal habitat they would like to see. 
+The list with all the habitats are then accessed and the corresponding animal is printed. 
+The while loop will then ask for input again. 
+"""
+
 camel = r"""
 Switching on camera from habitat with camels...
  ___.-''''-.
@@ -118,7 +128,6 @@ Switching on camera from habitat with rabbits...
  ]\      _\    /"\
 (" ~----( ~   Y.  )
 It seems there will be more rabbits soon!"""
-
 
 animals = [camel, lion, deer, goose, bat, rabbit]
 
